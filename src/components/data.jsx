@@ -5,8 +5,8 @@ import { FaLaptopCode, FaMobileAlt, FaCamera   } from "react-icons/fa";
 import testimonial1 from "../assets/girl.png"
 import testimonial2 from "../assets/boy.png"
 import Digital from "../assets/Digital.png"
-import Clothify from "../assets/Clothify.png"
-import Nike from "../assets/Nike.png"
+import Clothify from "../assets/screenshot 2025-05-27 224312.png"
+import SweetManns from "../assets/Screenshot 2025-05-27 221826.png"
 
 
 
@@ -122,30 +122,30 @@ export const timeline = [
 
 export const projects = [
     {
-      title: "Jewerly Ecommerce Website",
+      title: "Jewerly E-commerce Website",
       description:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
+        "✨ Welcome to Grandeur Sparkle ✨ Where timeless elegance meets modern design. Each piece in our collection is thoughtfully handcrafted to highlight your inner sparkle. From dainty everyday pieces to bold statement gems, we create jewelry that celebrates confidence, beauty, and individuality. Let your shine speak for itself.",
       techStack: ["Next.js", "React", "node.js", "Tailwind"],
       link: "https://gs-code.netlify.app/",
-      github: 'https://github.com/samuella-code/grandeur-spaekle-jewel',
+      github: 'https://grandeur-sparkle-code.netlify.app/',
       image: Digital, // Replace with your project screenshot
     },
     {
-      title: "Nike Shoes",
+      title: "SweetManns Clothing Brand",
       description:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
+        "SweetManns Clothing Brand is a celebration of individuality and timeless fashion. Aim is to craft high-quality, stylish, and comfortable clothing that empowers people to express their unique personalities. From casual wear to bold statement pieces, SweetManns combines modern trends with classic designs to create a versatile wardrobe for every occasion. With a commitment to sustainability and innovation, we ensure that every piece is crafted with care, using premium materials and ethical practices. Step into the world of SweetManns and redefine your style with confidence and elegance.",
       techStack: ["React", "Node.js", "MongoDB", "shadcn UI"],
-      link: "https://nike-topaz-delta.vercel.app/",
-      github: 'https://github.com/rohitsingh93300/YT-Nike',
-      image: Nike, // Replace with your project screenshot
+      link: "https://sweetmanns.vercel.app/",
+      github: 'https://github.com/samuella-code/sweetManns-clothing-brand',
+      image: SweetManns, // Replace with your project screenshot
     },
     {
-      title: "Clothify",
+      title: "Fitness Website",
       description:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea accusantium impedit facere. Sequi, deserunt recusandae.",
-      techStack: ["Next.js", "MongoDB", "Clerk Authentication"],
+        "Welcome to FitLife, your ultimate destination for all things fitness! Whether you're a seasoned athlete or just starting your fitness journey, FitLife is here to inspire, motivate, and guide you every step of the way. Our platform offers a wide range of resources, including workout plans, nutrition tips, and expert advice to help you achieve your health and wellness goals. Join our community of fitness enthusiasts and discover the power of a healthy lifestyle with FitLife.",
+      techStack: ["Next.js", "React", "Tailwind CSS", "Node.js"],
       link: "https://clothify-two.vercel.app/",
-      github: 'https://github.com/rohitsingh93300/YT-Clothify',
+      github: 'https://github.com/rohitsingh93300/',
       image: Clothify, // Replace with your project screenshot
     },
   ];

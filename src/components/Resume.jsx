@@ -11,7 +11,7 @@ const timeline = [
     type: 'work',
     title: 'Frontend Developer',
     subtitle: 'Freelance',
-    date: '2023 - Present',
+    date: '2024 - Present',
     desc: 'Designed and developed responsive websites and web applications using React, Vite, and Tailwind CSS. Focused on providing user-friendly, accessible UI and optimizing performance for various platforms.',
     icon: <Briefcase />,
   },
